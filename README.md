@@ -1,4 +1,5 @@
 PROJECT DESCRIPTION
+
  This program defines a hierarchy of restaurant classes to control and analyze their sales. 
 The Restaurant class serves as an abstract base magnificence, presenting a blueprint for 
 different sorts of eating places to inherit from. It has attributes for name and each day sales, 
